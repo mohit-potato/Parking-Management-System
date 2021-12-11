@@ -20,7 +20,7 @@ public class Display extends JFrame {
         this.setLayout(null);
         this.setLocationRelativeTo(null);
         this.setVisible(true); //make frame visible
-        ImageIcon icon = new ImageIcon("C:\\Users\\mohit\\Downloads\\Image & Memey Stuff\\car2.jpg"); //creating an image object
+        ImageIcon icon = new ImageIcon("F:\\Java\\ParkingSystem\\lib\\car2.jpg"); //creating an image object
         this.setIconImage(icon.getImage());//setting the image to frame
 
         try {

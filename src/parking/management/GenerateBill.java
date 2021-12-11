@@ -83,7 +83,7 @@ public class GenerateBill extends JFrame implements ActionListener {
         this.setResizable(false);
         this.setLayout(null);
         this.setLocationRelativeTo(null);
-        ImageIcon icon = new ImageIcon("C:\\Users\\mohit\\Downloads\\Image & Memey Stuff\\car2.jpg"); //creating an image object
+        ImageIcon icon = new ImageIcon("F:\\Java\\ParkingSystem\\lib\\car2.jpg"); //creating an image object
         this.setIconImage(icon.getImage()); //setting the image to frame
         this.setVisible(true); //make frame visible
 

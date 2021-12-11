@@ -13,8 +13,8 @@ public class MainPage extends JFrame implements ActionListener {
 
     MainPage() {
         //images
-        ImageIcon icon = new ImageIcon("C:\\Users\\mohit\\Downloads\\Image & Memey Stuff\\car.png");//creating an image object
-        ImageIcon icon2 = new ImageIcon("C:\\Users\\mohit\\Downloads\\Image & Memey Stuff\\car2.jpg");
+        ImageIcon icon = new ImageIcon("F:\\Java\\ParkingSystem\\lib\\car.png");//creating an image object
+        ImageIcon icon2 = new ImageIcon("F:\\Java\\ParkingSystem\\lib\\car2.jpg");
 
         //button
         button = new JButton();
